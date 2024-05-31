@@ -1,4 +1,4 @@
-# Browser Extension
+# Suggested Videos Remover
 
 ## Installation Tutorial
 
