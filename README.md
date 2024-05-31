@@ -1,5 +1,7 @@
 # Suggested Videos Remover
 
+Browser extension for pepole that use YouTube for their work and want to remove any possible distractions. This extensions removes Suggested Videos section from any YouTube video page.
+
 ## Installation Tutorial
 
 To install the browser extension, follow these steps:
